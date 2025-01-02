@@ -27,8 +27,3 @@ The goal of Nudgezilla is simple: help you create, organize, and complete your t
 
 ---
 
-## 🛠️ Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/nudgezilla.git
